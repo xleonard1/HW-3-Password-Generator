@@ -44,8 +44,9 @@ if (confirmSpecialCharacters) {
    if(confirmSpecial) { usableCharacters.push(...specialChar)}
    console.log(usableCharacters);
 
-
+  // implement loop to grab characters and reassign Length to recongize length of the password.
    for (i = 0; i < Length; i++) {
+    Length = confirmLength
      randomIndex = Math.floor(Math.random() * usableCharacters.length);
     randomPassword += usableCharacters[randomIndex];
   
