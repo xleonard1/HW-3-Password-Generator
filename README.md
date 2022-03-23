@@ -15,3 +15,6 @@ I order to do this, I created arrays for each input (uppercase array, lowercase 
 
 [proof of functionality](./images/password.png)
 
+# GithubURL
+
+https://xleonard1.github.io/HW-3-Password-Generator/
