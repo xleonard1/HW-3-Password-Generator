@@ -13,7 +13,7 @@ I order to do this, I created arrays for each input (uppercase array, lowercase 
 
 # Images
 
-[proof of functionality (./images/password.png)]
+![proof of functionality](./images/password.png)
 
 # GithubURL
 
