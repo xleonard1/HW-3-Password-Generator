@@ -10,7 +10,7 @@ var specialChar = ['!','@','#','$','%','^','&','*','(','_','-','+','=','{','}','
 
 
 
-// password Generator
+// password Generator function
 function generatePassword () {
  var randomPassword = [];
  var usableCharacters = [];  
